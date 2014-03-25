@@ -1,1 +1,2 @@
-puts "What is your name?"
+name = "phil"
+puts "hi #{name}!"
